@@ -1,0 +1,2 @@
+# simple-othello-game
+シンプルなオセロゲーム
